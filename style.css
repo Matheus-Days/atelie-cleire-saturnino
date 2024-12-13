@@ -1,8 +1,7 @@
 :root {
-  --font-color: #08082B;
-  --background-color: #FFFFED;
-  --primary-color: #7675BF;
-  --accent-color: #FFDA36;
+  --font-color: #FFFFED;
+  --background-color: #000019;
+  --primary-color: #fed72b;
 
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
   font-weight: 400;
@@ -261,6 +260,7 @@ a {
 }
 
 .green-border {
+  color: var(--font-color);
   border-color: #51c85d;
 }
 
